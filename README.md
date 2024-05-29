@@ -1,7 +1,7 @@
 # E-commerce Sales Analysis Dashboard Using Power BI 🚀
 
-![Power BI Dashboard 1](Images/Dashboard%201.png)
-![Power BI Dashbord 2](Images/Dashboard%202.png)
+![E-commerce Sales Analysis Dashboard](Images/Dashboard%201.png)
+![2](Images/Dashboard%202.png)
 
 I am excited to share with you some fascinating sales analysis insights that I have generated using Power BI. ⚡ Among the features of the report, the slicer section stands out as my favorite. The dashboard is highly dynamic, enabling the end-user to make informed business decisions much more efficiently.
 
@@ -11,26 +11,31 @@ This dashboard provides a quick understanding to managers and stakeholders about
 
 ### Key Features:
 - **Key Performance Indicators (KPIs)**: 
-  - Total Profit
-  - Total Sales
-  - Total Quantity
-  - Shipping Cost
-  - Total Customers
-  - Average Delivery Days
+  - **Total Sales**: $12.64M
+  - **Total Profit**: $1.47M
+  - **Total Quantity Sold**: 178K
+  - **Shipping Cost**: $1.35M
+  - **Total Customers**: 795
 
 - **Breakdown of Sales**:
-  - By Segment
-  - By Category
-  - By Market
+  - **Sales by Segment**: Consumer (51.48%), Corporate (30.25%), Home Office (18.27%)
+  - **Sales by Category and Market**
+  - **Sales by Top 10 Countries**: United States (29.01%), China (8.85%), Germany (7.94%), etc.
+  - **Sales by Top 5 States**: New York, California, etc.
+  - **Sales by Top 5 Cities**: New York City, Los Angeles, Seattle, etc.
+  - **Sales by Ship Mode**: Standard, Second Class, First Class, Same Day
+  - **Sales & Profit by Year**
 
 - **Visualizations**:
-  - Filters
-  - Donut Charts
-  - Pie Charts
-  - Top Profiting Products
-  - Top Customers
-  - And many more…
+  - **Donut Charts**: To show proportions in categories and markets
+  - **Pie Charts**: For regional sales breakdown
+  - **Bar Charts**: Highlighting top customers and products
+  - **Line Charts**: Trends over years
 
+- **Top Products and Customers**:
+  - **Top 3 Profiting Products**: Canon imageCLASS 2200, Cisco Smart Phone, Motorola Smart Phone
+  - **Top 3 Profiting Sub-Categories**: Bookcases, Copiers, Phones
+  - **Sales by Top 5 Customers**
 
 ### Usage
 
@@ -68,3 +73,4 @@ By using this dashboard, stakeholders can:
 - **Power BI**: For data visualization and dashboard creation.
 - **SQL**: For data querying and transformation.
 - **Excel**: For data preparation and initial analysis.
+
